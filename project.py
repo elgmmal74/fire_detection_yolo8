@@ -6,7 +6,7 @@ from playsound import playsound
 model = YOLO('best.pt') 
 
 # Specify the path to the video file
-video_path = 'video.mp4' 
+video_path = 'videos/fire6.mp4' 
 
 # Specify the path to the alarm sound file
 alarm_sound_path = 'fire_alarm.mp3' 
